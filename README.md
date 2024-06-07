@@ -1,4 +1,4 @@
-# Conversor de Moedas em Java
+﻿# Conversor de Moedas em Java
 
  ### Feito para o Challenge da Alura + Oracle - Java Back End com Spring Boot
 
